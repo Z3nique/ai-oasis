@@ -1,3 +1,3 @@
-# ZeroAi-OasisAI-OASIS
+# ZeroAi-Oasis
 
-Sovereign Personal AI Operating System
+Unified Zero AI Hub integrated into Oasis Platform.
