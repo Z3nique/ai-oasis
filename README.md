@@ -1,11 +1,3 @@
-# Zero AI Oasis
+AI Oasis - Autonomous AI Platform with Honeycomb UI and Zero Orb
 
-Unified sovereign personal AI operating system combining Zero AI Hub + Oasis Platform.
-
-## Features
-- Honeycomb biomimetic UI
-- PWA with LocalStorage chat history
-- Omni-Creator Studio
-- Security & Compliance tools
-
-Built with React + Tailwind.
+Fullstack Next.js + Prisma + Three.js project for Kingh Khan's AI Oasis.
