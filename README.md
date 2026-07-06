@@ -1,11 +1,3 @@
-# AI Oasis
+# ZeroAi-OasisAI-OASIS
 
-Autonomous AI Platform with Glowing Honeycomb UI, Zero Orb, Prisma Postgres, and Cloudflare deployment.
-
-## Features
-- Interactive 3D Honeycomb
-- Zero AI Assistant
-- Multi-tenant workspaces
-- Secure Vault
-
-Run `npm install && npm run dev`
+Sovereign Personal AI Operating System
