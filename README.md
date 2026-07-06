@@ -1,14 +1,11 @@
 # Zero AI Oasis
 
-Unified personal AI operating system combining Zero AI Hub + Oasis Platform.
-
-Honeycomb biomimetic UI, PWA, sovereign AI hub with creator tools, security, and more.
+Unified sovereign personal AI operating system combining Zero AI Hub + Oasis Platform.
 
 ## Features
-- Adaptive chat
+- Honeycomb biomimetic UI
+- PWA with LocalStorage chat history
 - Omni-Creator Studio
-- LocalStorage persistence
-- PWA support
-- Quantum-resistant sim
+- Security & Compliance tools
 
-Repo for @Z3nique
+Built with React + Tailwind.
